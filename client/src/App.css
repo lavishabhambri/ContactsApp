@@ -1,0 +1,131 @@
+@import url('https://fonts.googleapis.com/css2?family=Grand+Hotel&display=swap');
+
+a{
+  color: black !important;
+}
+
+.brand-logo,h2{
+
+  font-family: 'Grand Hotel', cursive;
+  
+}
+
+.auth-card{
+  padding: 7%;
+  text-align: center;
+  max-width: 400px;
+  margin: 10px auto;
+}
+
+.input-field input[type=text]:focus {
+  border-bottom: 1px solid #F89A99 !important;
+  box-shadow: 0 1px 0 0 #F89A99  !important;
+}
+.input-field input[type=password]:focus {
+  border-bottom: 1px solid #F89A99 !important;
+  box-shadow: 0 1px 0 0 #F89A99 !important;
+}
+
+.gallery{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.item{
+  width: 30%;
+}
+
+.home-card{
+  max-width: 500px;
+  height: max-content;
+  margin: 26px auto;
+  
+}
+.collection-item{
+  width: 100%;
+}
+
+
+#toast-container{
+  top:30px !important;
+  right: 20px !important;
+  left: auto !important;
+}
+
+
+.material-icons:hover{
+  cursor: pointer;
+}
+
+/* Login-page */
+.mycard{
+    margin: 5% 10%;
+    align-items: center;
+    float: right;
+    width: 40%;
+}
+
+.login-image{
+  width: 35%;
+  height: 35%;
+  float: left;
+  margin-left: 2%;
+}
+
+.links-text{
+  text-decoration: none;
+}
+
+
+/* Signup page */
+.signup-image{
+  width: 25%;
+    height: 25%;
+    float: right;
+    margin-top: 3%;
+    margin-right: 13%;
+
+}
+
+@media (max-width: 600px) {
+
+  .login-image{
+      width: 90%;
+      height: 90%;
+      float: none;
+  }
+
+  .mycard{
+      align-items: center;
+      margin: 2% 2% 6% 2%;
+      width: 95%;
+      float: none;
+  }
+
+  .signup-image{
+    display: none;
+}
+
+  .editContact-form{
+    width: 95%;
+    margin: 2%;
+  }
+
+  .signup-section{
+    margin-top: 12%;
+  }
+
+}
+
+/* Reset password */
+.mycardreset{
+  margin: 130px auto;
+  align-items: center;
+  width: 100%;
+}
+
+.resetPasswordCard{
+  width: 300px;
+  padding: 3%;
+}
