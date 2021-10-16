@@ -28,9 +28,9 @@ Inside client
 npm start
 ````
 ## Technologies used
-- Frontend- HTML, CSS, Bootstarp, Flexbox, Javascript
-- Backend- Node.js
-- Frameworks- React
+- Frontend- HTML, CSS, Bootstrap, Flexbox, Javascript
+- Backend- Node.js, Express.js
+- Frameworks- React.js
 - Database- MongoDB Atlas
 
 ## Hope you like it ❤️
