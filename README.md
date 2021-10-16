@@ -1,6 +1,7 @@
 # Phone-Pocket-App 📱
-A Mernstack Web Application that allows users to maintain their contacts. It doesn't need any local storage of the user. The website can be run anywhere, either on a mobile phone or desktop.
-App Link :-
+- A Mernstack Web Application that allows users to maintain their contacts. It doesn't need any local storage of the user. The website can be run anywhere, either on a mobile phone or desktop.
+
+- App Link :-
 https://phone-pocket.netlify.app/
 
 ## Features
@@ -33,5 +34,24 @@ npm start
 - Backend- Node.js, Express.js
 - Frameworks- React.js
 - Database- MongoDB Atlas
+
+## Snapshots of the Application
+- ### Home page
+<p align="center"><img src="screenshots/pic1.png" width = 80%></p><br>
+
+- ### Features
+<p align="center"><img src="screenshots/pic2.png" width = 80%></p><br>
+
+- ### SignIn page
+<p align="center"><img src="screenshots/pic3.png" width = 80%></p><br>
+
+- ### SignUp page
+<p align="center"><img src="screenshots/pic4.png" width = 80%></p><br>
+
+- ### Create contacts page
+<p align="center"><img src="screenshots/pic5.png" width = 80%></p><br>
+
+- ### User contacts
+<p align="center"><img src="screenshots/pic6.png" width = 80%></p><br>
 
 ## Hope you like it ❤️
