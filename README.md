@@ -7,6 +7,7 @@ https://phone-pocket.netlify.app/
 - Users can add new contacts(full name, email address, profile pic).
 - Users can update or delete the pre-existing contacts.
 - Simple and interactive UI/UX of the Web Application.
+- Users can also favourite their contacts.
 
 ## Instructions
 
