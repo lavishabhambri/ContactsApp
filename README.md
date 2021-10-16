@@ -1,5 +1,5 @@
 # Phone-Pocket-App 📱
-Phone Pocket is a Mernstack Web Application that allows users to maintain their contacts. It doesn't need any local storage of the user. The website can be run anywhere, either on a mobile phone or desktop.
+A Mernstack Web Application that allows users to maintain their contacts. It doesn't need any local storage of the user. The website can be run anywhere, either on a mobile phone or desktop.
 App Link :-
 https://phone-pocket.netlify.app/
 
